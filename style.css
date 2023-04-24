@@ -1,0 +1,30 @@
+body 
+{ 
+    background-image: url(file:///home/sugarcube/Documenti/Cartella/background.jpg);
+}
+
+.container
+{
+    width: 1000px;
+    margin: auto;
+}
+.logo
+{
+    width: 270px;
+}
+.logo-text
+{
+    font-size: 26px;
+    font-family: 'Courier New', Courier, monospace;
+    color: greenyellow;
+}
+
+.background
+{
+    background-color: greenyellow;
+}
+
+.colore
+{
+    color: white;
+}
